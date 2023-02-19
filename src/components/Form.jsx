@@ -6,7 +6,7 @@ const Form = () => {
       <div className='container-fluid'>
         <div className='row mt-3'>
           <div className='col-lg-12 bg-light p-4 rounded'>
-            <h2 className='h2 text-center text-primary fw-bold mb-4 mt-2 p-2'>Registration</h2>
+            <h2 className='h2 text-center text-primary fw-bold mb-4 mt-2 p-2'>Registration 1</h2>
             <form className='row g-3' action="">
               <div className='col-lg-4'>
                 <label htmlFor="" className='form-label'>First Name</label>
